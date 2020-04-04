@@ -1,0 +1,1 @@
+gcc -g  ./myls.c -o myls.o
